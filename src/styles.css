@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+.toast-container .ngx-toastr {
+    width: 500px;
+    z-index: 99999;
+    top:0px;
+    right:0px;
+    position: absolute;
+    color:white;
+    padding:10px;
+    font-weight: 600;
+  }
+  
+  .toast-success {
+    background-color: #4ABD40;
+  }
+  
+  .toast-error {
+    background-color: #FB4B40;
+  }
+  
+  .toast-info {
+    background-color: #2A83DE
+  }
+  
+  .toast-waring {
+    background-color: #FBB814
+  }
