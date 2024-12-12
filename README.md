@@ -1,6 +1,10 @@
 # Diary
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+This Project has backend with Nodejs and Front End with Angular
+This project Shows Diary with Crud operations.
+This Project also has Registration and Login to update and delete Diary entries.
+Unauthorised User can only View the entry
 
 ## Development server
 
